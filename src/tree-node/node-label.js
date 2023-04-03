@@ -9,6 +9,8 @@ class NodeLabel extends PureComponent {
     actions: PropTypes.array,
     title: PropTypes.string,
     label: PropTypes.string.isRequired,
+    imageUrl: PropTypes.string,
+    email: PropTypes.string,
     value: PropTypes.string.isRequired,
     checked: PropTypes.bool,
     partial: PropTypes.bool,
@@ -37,7 +39,7 @@ class NodeLabel extends PureComponent {
   }
 
   render() {
-    const { mode, title, label, id, partial, checked } = this.props
+    const { mode, title, label, id, partial, checked, imageUrl, email } = this.props
     const { value, disabled, showPartiallySelected, readOnly, clientId } = this.props
     const nodeLabelProps = { className: 'node-label' }
 
@@ -65,7 +67,11 @@ class NodeLabel extends PureComponent {
             {...sharedProps}
           />
         )}
-        <span {...nodeLabelProps}>{label}</span>
+        <span {...nodeLabelProps}>
+          {imageUrl ? '<img src="' + imageUrl + '" alt=""/>' : ''}
+          {label}
+        </span>
+        <span className="node-label-email">{email}</span>
       </label>
     )
   }
