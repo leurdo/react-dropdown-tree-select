@@ -1,8 +1,8 @@
 {
-  "hash": "23d38607b18de607267a",
+  "hash": "50965b88d609f2e937c5",
   "version": "5.75.0",
-  "time": 23089,
-  "builtAt": 1680513341610,
+  "time": 6498,
+  "builtAt": 1680526087409,
   "publicPath": "auto",
   "outputPath": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\dist",
   "assetsByChunkName": {
@@ -12,7 +12,7 @@
     {
       "type": "asset",
       "name": "react-dropdown-tree-select.js",
-      "size": 76383,
+      "size": 76442,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -23,7 +23,7 @@
           "license": "react-dropdown-tree-select.js.LICENSE.txt",
           "sourceMap": "react-dropdown-tree-select.js.map"
         },
-        "size": 76383
+        "size": 76442
       },
       "chunkNames": ["react-dropdown-tree-select"],
       "chunkIdHints": [],
@@ -34,13 +34,13 @@
         {
           "type": "sourceMap",
           "name": "react-dropdown-tree-select.js.map",
-          "size": 147040,
+          "size": 147356,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 147040
+            "size": 147356
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -148,9 +148,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 165499,
+      "size": 165658,
       "sizes": {
-        "javascript": 162114,
+        "javascript": 162273,
         "css/mini-extract": 2448,
         "runtime": 937
       },
@@ -159,7 +159,7 @@
       "runtime": ["react-dropdown-tree-select"],
       "files": ["styles.css", "react-dropdown-tree-select.js"],
       "auxiliaryFiles": ["react-dropdown-tree-select.js.map", "styles.css.map"],
-      "hash": "ac3f7c0d387b8d2a1435",
+      "hash": "16d2be19c40c3bb2a7ad",
       "childrenByOrder": {},
       "id": 27,
       "siblings": [],
@@ -1633,7 +1633,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "164:7-34",
+              "loc": "168:7-34",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1647,7 +1647,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "165:10-26",
+              "loc": "169:10-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1661,7 +1661,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "166:13-28",
+              "loc": "170:13-28",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1675,7 +1675,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "167:11-26",
+              "loc": "171:11-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1689,7 +1689,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "168:13-29",
+              "loc": "172:13-29",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1703,7 +1703,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "169:9-25",
+              "loc": "173:9-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1717,7 +1717,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "170:9-36",
+              "loc": "174:9-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1731,7 +1731,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "171:9-36",
+              "loc": "175:9-36",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1745,7 +1745,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "172:11-25",
+              "loc": "176:9-36",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1759,7 +1759,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "173:12-26",
+              "loc": "177:11-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1773,7 +1773,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "174:12-26",
+              "loc": "178:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1787,7 +1787,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "175:11-25",
+              "loc": "179:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1801,7 +1801,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "176:11-27",
+              "loc": "180:11-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1815,63 +1815,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "177:20-34",
-              "moduleId": 442,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-              "module": "./src/index.js + 25 modules",
-              "moduleName": "./src/index.js + 25 modules",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "178:24-38",
-              "moduleId": 442,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-              "module": "./src/index.js + 25 modules",
-              "moduleName": "./src/index.js + 25 modules",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "179:16-30",
-              "moduleId": 442,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-              "module": "./src/index.js + 25 modules",
-              "moduleName": "./src/index.js + 25 modules",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "180:16-30",
-              "moduleId": 442,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-              "module": "./src/index.js + 25 modules",
-              "moduleName": "./src/index.js + 25 modules",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "181:12-26",
+              "loc": "181:11-27",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1899,7 +1843,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "183:8-23",
+              "loc": "183:24-38",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1913,7 +1857,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "184:25-39",
+              "loc": "184:16-30",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1927,7 +1871,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "185:12-26",
+              "loc": "185:16-30",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1941,7 +1885,77 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "186:12-28",
+              "loc": "186:12-26",
+              "moduleId": 442,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+              "module": "./src/index.js + 25 modules",
+              "moduleName": "./src/index.js + 25 modules",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "187:20-34",
+              "moduleId": 442,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+              "module": "./src/index.js + 25 modules",
+              "moduleName": "./src/index.js + 25 modules",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "188:8-23",
+              "moduleId": 442,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+              "module": "./src/index.js + 25 modules",
+              "moduleName": "./src/index.js + 25 modules",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "189:25-39",
+              "moduleId": 442,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+              "module": "./src/index.js + 25 modules",
+              "moduleName": "./src/index.js + 25 modules",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "190:12-26",
+              "moduleId": 442,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+              "module": "./src/index.js + 25 modules",
+              "moduleName": "./src/index.js + 25 modules",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "191:12-28",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -3229,7 +3243,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "164:7-34",
+              "loc": "168:7-34",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3243,7 +3257,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "165:10-26",
+              "loc": "169:10-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3257,7 +3271,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "166:13-28",
+              "loc": "170:13-28",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3271,7 +3285,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "167:11-26",
+              "loc": "171:11-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3285,7 +3299,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "168:13-29",
+              "loc": "172:13-29",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3299,7 +3313,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "169:9-25",
+              "loc": "173:9-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3313,7 +3327,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "170:9-36",
+              "loc": "174:9-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3327,7 +3341,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "171:9-36",
+              "loc": "175:9-36",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3341,7 +3355,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "172:11-25",
+              "loc": "176:9-36",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3355,7 +3369,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "173:12-26",
+              "loc": "177:11-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3369,7 +3383,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "174:12-26",
+              "loc": "178:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3383,7 +3397,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "175:11-25",
+              "loc": "179:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3397,7 +3411,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "176:11-27",
+              "loc": "180:11-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3411,63 +3425,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "177:20-34",
-              "moduleId": null,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "module": "./src/tree-node/index.js",
-              "moduleName": "./src/tree-node/index.js",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "178:24-38",
-              "moduleId": null,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "module": "./src/tree-node/index.js",
-              "moduleName": "./src/tree-node/index.js",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "179:16-30",
-              "moduleId": null,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "module": "./src/tree-node/index.js",
-              "moduleName": "./src/tree-node/index.js",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "180:16-30",
-              "moduleId": null,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "module": "./src/tree-node/index.js",
-              "moduleName": "./src/tree-node/index.js",
-              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-              "resolvedModule": "./src/tree-node/index.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "181:12-26",
+              "loc": "181:11-27",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3495,7 +3453,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "183:8-23",
+              "loc": "183:24-38",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3509,7 +3467,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "184:25-39",
+              "loc": "184:16-30",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3523,7 +3481,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "185:12-26",
+              "loc": "185:16-30",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3537,7 +3495,77 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "186:12-28",
+              "loc": "186:12-26",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "module": "./src/tree-node/index.js",
+              "moduleName": "./src/tree-node/index.js",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "187:20-34",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "module": "./src/tree-node/index.js",
+              "moduleName": "./src/tree-node/index.js",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "188:8-23",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "module": "./src/tree-node/index.js",
+              "moduleName": "./src/tree-node/index.js",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "189:25-39",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "module": "./src/tree-node/index.js",
+              "moduleName": "./src/tree-node/index.js",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "190:12-26",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "module": "./src/tree-node/index.js",
+              "moduleName": "./src/tree-node/index.js",
+              "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+              "resolvedModule": "./src/tree-node/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "191:12-28",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -4455,9 +4483,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 135473,
+          "size": 135632,
           "sizes": {
-            "javascript": 135473
+            "javascript": 135632
           },
           "built": true,
           "codeGenerated": true,
@@ -4890,7 +4918,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "../utils",
-                  "loc": "133:9-19",
+                  "loc": "135:9-19",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -6255,9 +6283,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 9428,
+              "size": 9587,
               "sizes": {
-                "javascript": 9428
+                "javascript": 9587
               },
               "built": true,
               "codeGenerated": false,
@@ -6328,7 +6356,7 @@
               "usedExports": ["default"],
               "providedExports": ["default"],
               "optimizationBailout": [
-                "Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"
+                "Statement (ExpressionStatement) with side effects in source code at 167:0-192:3"
               ],
               "depth": 2
             },
@@ -6727,7 +6755,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./actions",
-                  "loc": "151:43-50",
+                  "loc": "155:43-50",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -6811,7 +6839,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./node-label",
-                  "loc": "138:43-52",
+                  "loc": "140:43-52",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -6897,7 +6925,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./toggle",
-                  "loc": "133:90-96",
+                  "loc": "135:90-96",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -8062,7 +8090,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "129:26-45",
+              "loc": "131:26-45",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8076,7 +8104,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "133:70-89",
+              "loc": "135:70-89",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8090,7 +8118,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "138:23-42",
+              "loc": "140:23-42",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8104,7 +8132,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "151:23-42",
+              "loc": "155:23-42",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8118,7 +8146,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "161:2-15",
+              "loc": "165:2-15",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8748,7 +8776,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "129:26-45",
+              "loc": "131:26-45",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -8762,7 +8790,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "133:70-89",
+              "loc": "135:70-89",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -8776,7 +8804,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "138:23-42",
+              "loc": "140:23-42",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -8790,7 +8818,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "151:23-42",
+              "loc": "155:23-42",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -8804,7 +8832,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "161:2-15",
+              "loc": "165:2-15",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9261,9 +9289,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 135473,
+      "size": 135632,
       "sizes": {
-        "javascript": 135473
+        "javascript": 135632
       },
       "built": true,
       "codeGenerated": true,
@@ -9691,7 +9719,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../utils",
-              "loc": "133:9-19",
+              "loc": "135:9-19",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -11036,9 +11064,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 9428,
+          "size": 9587,
           "sizes": {
-            "javascript": 9428
+            "javascript": 9587
           },
           "built": true,
           "codeGenerated": false,
@@ -11107,7 +11135,7 @@
           ],
           "usedExports": ["default"],
           "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"],
+          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 167:0-192:3"],
           "depth": 2
         },
         {
@@ -11501,7 +11529,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./actions",
-              "loc": "151:43-50",
+              "loc": "155:43-50",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -11584,7 +11612,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./node-label",
-              "loc": "138:43-52",
+              "loc": "140:43-52",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -11667,7 +11695,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./toggle",
-              "loc": "133:90-96",
+              "loc": "135:90-96",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -13196,7 +13224,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "164:7-34",
+          "loc": "168:7-34",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13210,7 +13238,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "165:10-26",
+          "loc": "169:10-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13224,7 +13252,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "166:13-28",
+          "loc": "170:13-28",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13238,7 +13266,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "167:11-26",
+          "loc": "171:11-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13252,7 +13280,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "168:13-29",
+          "loc": "172:13-29",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13266,7 +13294,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "169:9-25",
+          "loc": "173:9-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13280,7 +13308,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "170:9-36",
+          "loc": "174:9-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13294,7 +13322,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "171:9-36",
+          "loc": "175:9-36",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13308,7 +13336,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "172:11-25",
+          "loc": "176:9-36",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13322,7 +13350,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "173:12-26",
+          "loc": "177:11-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13336,7 +13364,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "174:12-26",
+          "loc": "178:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13350,7 +13378,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "175:11-25",
+          "loc": "179:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13364,7 +13392,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "176:11-27",
+          "loc": "180:11-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13378,63 +13406,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "177:20-34",
-          "moduleId": 442,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-          "module": "./src/index.js + 25 modules",
-          "moduleName": "./src/index.js + 25 modules",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "178:24-38",
-          "moduleId": 442,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-          "module": "./src/index.js + 25 modules",
-          "moduleName": "./src/index.js + 25 modules",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "179:16-30",
-          "moduleId": 442,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-          "module": "./src/index.js + 25 modules",
-          "moduleName": "./src/index.js + 25 modules",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "180:16-30",
-          "moduleId": 442,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-          "module": "./src/index.js + 25 modules",
-          "moduleName": "./src/index.js + 25 modules",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "181:12-26",
+          "loc": "181:11-27",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13462,7 +13434,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "183:8-23",
+          "loc": "183:24-38",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13476,7 +13448,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "184:25-39",
+          "loc": "184:16-30",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13490,7 +13462,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "185:12-26",
+          "loc": "185:16-30",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13504,7 +13476,77 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "186:12-28",
+          "loc": "186:12-26",
+          "moduleId": 442,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+          "module": "./src/index.js + 25 modules",
+          "moduleName": "./src/index.js + 25 modules",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "187:20-34",
+          "moduleId": 442,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+          "module": "./src/index.js + 25 modules",
+          "moduleName": "./src/index.js + 25 modules",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "188:8-23",
+          "moduleId": 442,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+          "module": "./src/index.js + 25 modules",
+          "moduleName": "./src/index.js + 25 modules",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "189:25-39",
+          "moduleId": 442,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+          "module": "./src/index.js + 25 modules",
+          "moduleName": "./src/index.js + 25 modules",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "190:12-26",
+          "moduleId": 442,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+          "module": "./src/index.js + 25 modules",
+          "moduleName": "./src/index.js + 25 modules",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "191:12-28",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -14792,7 +14834,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "164:7-34",
+          "loc": "168:7-34",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14806,7 +14848,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "165:10-26",
+          "loc": "169:10-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14820,7 +14862,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "166:13-28",
+          "loc": "170:13-28",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14834,7 +14876,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "167:11-26",
+          "loc": "171:11-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14848,7 +14890,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "168:13-29",
+          "loc": "172:13-29",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14862,7 +14904,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "169:9-25",
+          "loc": "173:9-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14876,7 +14918,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "170:9-36",
+          "loc": "174:9-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14890,7 +14932,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "171:9-36",
+          "loc": "175:9-36",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14904,7 +14946,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "172:11-25",
+          "loc": "176:9-36",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14918,7 +14960,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "173:12-26",
+          "loc": "177:11-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14932,7 +14974,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "174:12-26",
+          "loc": "178:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14946,7 +14988,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "175:11-25",
+          "loc": "179:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14960,7 +15002,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "176:11-27",
+          "loc": "180:11-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -14974,63 +15016,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "177:20-34",
-          "moduleId": null,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "module": "./src/tree-node/index.js",
-          "moduleName": "./src/tree-node/index.js",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "178:24-38",
-          "moduleId": null,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "module": "./src/tree-node/index.js",
-          "moduleName": "./src/tree-node/index.js",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "179:16-30",
-          "moduleId": null,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "module": "./src/tree-node/index.js",
-          "moduleName": "./src/tree-node/index.js",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "180:16-30",
-          "moduleId": null,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "module": "./src/tree-node/index.js",
-          "moduleName": "./src/tree-node/index.js",
-          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
-          "resolvedModule": "./src/tree-node/index.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "181:12-26",
+          "loc": "181:11-27",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15058,7 +15044,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "183:8-23",
+          "loc": "183:24-38",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15072,7 +15058,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "184:25-39",
+          "loc": "184:16-30",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15086,7 +15072,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "185:12-26",
+          "loc": "185:16-30",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15100,7 +15086,77 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "186:12-28",
+          "loc": "186:12-26",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "module": "./src/tree-node/index.js",
+          "moduleName": "./src/tree-node/index.js",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "187:20-34",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "module": "./src/tree-node/index.js",
+          "moduleName": "./src/tree-node/index.js",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "188:8-23",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "module": "./src/tree-node/index.js",
+          "moduleName": "./src/tree-node/index.js",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "189:25-39",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "module": "./src/tree-node/index.js",
+          "moduleName": "./src/tree-node/index.js",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "190:12-26",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "module": "./src/tree-node/index.js",
+          "moduleName": "./src/tree-node/index.js",
+          "resolvedModuleIdentifier": "C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!C:\\work\\React Dropdown Tree Select\\react-dropdown-tree-select\\src\\tree-node\\index.js",
+          "resolvedModule": "./src/tree-node/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "191:12-28",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -16394,7 +16450,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "129:26-45",
+          "loc": "131:26-45",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16408,7 +16464,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "133:70-89",
+          "loc": "135:70-89",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16422,7 +16478,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "138:23-42",
+          "loc": "140:23-42",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16436,7 +16492,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "151:23-42",
+          "loc": "155:23-42",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16450,7 +16506,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "161:2-15",
+          "loc": "165:2-15",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -17080,7 +17136,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "129:26-45",
+          "loc": "131:26-45",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17094,7 +17150,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "133:70-89",
+          "loc": "135:70-89",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17108,7 +17164,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "138:23-42",
+          "loc": "140:23-42",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17122,7 +17178,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "151:23-42",
+          "loc": "155:23-42",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17136,7 +17192,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "161:2-15",
+          "loc": "165:2-15",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17769,7 +17825,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../utils",
-          "loc": "133:9-19",
+          "loc": "135:9-19",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -19394,9 +19450,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 9428,
+      "size": 9587,
       "sizes": {
-        "javascript": 9428
+        "javascript": 9587
       },
       "built": true,
       "codeGenerated": false,
@@ -19465,7 +19521,7 @@
       ],
       "usedExports": ["default"],
       "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"],
+      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 167:0-192:3"],
       "depth": 2
     },
     {
@@ -20259,7 +20315,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./actions",
-          "loc": "151:43-50",
+          "loc": "155:43-50",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -20342,7 +20398,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./node-label",
-          "loc": "138:43-52",
+          "loc": "140:43-52",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -20425,7 +20481,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./toggle",
-          "loc": "133:90-96",
+          "loc": "135:90-96",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -21884,15 +21940,15 @@
         },
         {
           "name": "react-dropdown-tree-select.js",
-          "size": 76383
+          "size": 76442
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78873,
+      "assetsSize": 78932,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select.js.map",
-          "size": 147040
+          "size": 147356
         },
         {
           "name": "styles.css.map",
@@ -21900,7 +21956,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151699,
+      "auxiliaryAssetsSize": 152015,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -21917,15 +21973,15 @@
         },
         {
           "name": "react-dropdown-tree-select.js",
-          "size": 76383
+          "size": 76442
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78873,
+      "assetsSize": 78932,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select.js.map",
-          "size": 147040
+          "size": 147356
         },
         {
           "name": "styles.css.map",
@@ -21933,7 +21989,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151699,
+      "auxiliaryAssetsSize": 152015,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
