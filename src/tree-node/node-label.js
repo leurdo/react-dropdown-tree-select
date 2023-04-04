@@ -53,7 +53,7 @@ class NodeLabel extends PureComponent {
 
     const sharedProps = { id, value, checked, disabled, readOnly, tabIndex: -1 }
     const className = ['checkbox-item', mode === 'simpleSelect' && 'simple-select'].filter(Boolean).join(' ')
-    const imageElement = imageUrl ? `<img src="${imageUrl}" alt=""/>` : '';
+    const imageElement = imageUrl => (imageUrl ? <img src={imageUrl} alt="" /> : null)
 
     return (
       <label title={title || label} htmlFor={id}>
