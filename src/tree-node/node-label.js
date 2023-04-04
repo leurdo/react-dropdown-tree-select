@@ -69,7 +69,7 @@ class NodeLabel extends PureComponent {
           />
         )}
         <span {...nodeLabelProps}>
-          {imageElement}
+          {imageElement(imageUrl)}
           {label}
         </span>
         <span className="node-label-email">{email}</span>
